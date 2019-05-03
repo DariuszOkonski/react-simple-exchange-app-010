@@ -16,6 +16,7 @@ class App extends React.Component {
       { id: 0, name: 'electricity', price: .51, unit: 'kWh' },
       { id: 1, name: 'gas', price: 4.76, unit: 'liters' },
       { id: 2, name: 'oranges', price: 3.79, unit: 'kilos' },
+      { id: 3, name: 'coal', price: 589.93, unit: 'tons' },
     ]
   }
 
