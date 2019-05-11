@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-simple-exchange-app-010/static/css/main.86549e7f.chunk.css",
+    "main.js": "/react-simple-exchange-app-010/static/js/main.ec0b1d15.chunk.js",
+    "main.js.map": "/react-simple-exchange-app-010/static/js/main.ec0b1d15.chunk.js.map",
+    "runtime~main.js": "/react-simple-exchange-app-010/static/js/runtime~main.29034060.js",
+    "runtime~main.js.map": "/react-simple-exchange-app-010/static/js/runtime~main.29034060.js.map",
+    "static/js/2.6408f43b.chunk.js": "/react-simple-exchange-app-010/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/react-simple-exchange-app-010/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/react-simple-exchange-app-010/index.html",
+    "precache-manifest.011a092b3c03fd92f74e494639245b6a.js": "/react-simple-exchange-app-010/precache-manifest.011a092b3c03fd92f74e494639245b6a.js",
+    "service-worker.js": "/react-simple-exchange-app-010/service-worker.js",
+    "static/css/main.86549e7f.chunk.css.map": "/react-simple-exchange-app-010/static/css/main.86549e7f.chunk.css.map"
+  }
+}
